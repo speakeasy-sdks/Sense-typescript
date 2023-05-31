@@ -7,6 +7,9 @@ import * as operations from "./models/operations";
 import * as shared from "./models/shared";
 import { AxiosInstance, AxiosRequestConfig, AxiosResponse } from "axios";
 
+/**
+ * Classify documents by type
+ */
 export class Document {
     _defaultClient: AxiosInstance;
     _securityClient: AxiosInstance;
