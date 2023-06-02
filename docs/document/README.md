@@ -21,6 +21,9 @@ Use this endpoint:
  - Outside an extraction workflow. For example, to determine where to route each document or to label each document in a system of record.
 
 To post the document bytes, specify the non-encoded document bytes as the entire request body,and specify the `Content-Type` header, for example,"application/pdf" or "image/jpeg".
+
+This endpoint supports documents up to 4.5MB in size.
+
 For a list of supported document file types, see the [/extract](ref:extract-data-from-a-document) endpoint.
 
 
@@ -56,6 +59,8 @@ Use this endpoint:
  - Outside an extraction workflow. For example, determine where to route each document or to label each document in a system of record.
 
 To post the document bytes, specify the non-encoded document bytes as the entire request body,and specify the `Content-Type` header, for example,"application/pdf" or "image/jpeg".
+This endpoint supports documents up to 4.5MB in size.
+
 For a list of supported document file types, see the [/extract](ref:extract-data-from-a-document) endpoint.
 
 

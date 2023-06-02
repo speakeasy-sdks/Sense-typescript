@@ -1,9 +1,9 @@
 configVersion: 1.0.0
 management:
-  docChecksum: d7ca0425c0bd37e2f5f8c2c76bbe7227
+  docChecksum: 6e4608ac2ddda73bfea16d931e645415
   docVersion: 0.0.0
-  speakeasyVersion: 1.41.0
-  generationVersion: 2.34.7
+  speakeasyVersion: 1.42.3
+  generationVersion: 2.35.3
 generation:
   comments:
     disableComments: false
@@ -13,7 +13,7 @@ generation:
   singleTagPerOp: false
   tagNamespacingDisabled: false
 typescript:
-  version: 1.1.1
+  version: 1.2.0
   author: Sense
   maxMethodParams: 0
   packageName: Classification
