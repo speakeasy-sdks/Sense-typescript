@@ -35,7 +35,7 @@ import { ClassifyDocumentResponse } from "Classification/dist/sdk/models/operati
 
 const sdk = new Classification({
   security: {
-    bearerAuth: "YOUR_BEARER_TOKEN_HERE",
+    bearerAuth: "",
   },
 });
 
@@ -72,7 +72,7 @@ import { ClassifyDocumentSyncResponse } from "Classification/dist/sdk/models/ope
 
 const sdk = new Classification({
   security: {
-    bearerAuth: "YOUR_BEARER_TOKEN_HERE",
+    bearerAuth: "",
   },
 });
 
