@@ -40,10 +40,10 @@ sdk.document.classifyDocument("corrupti".encode()).then((res: ClassifyDocumentRe
 ## Available Resources and Operations
 
 
-### [document](docs/document/README.md)
+### [document](docs/sdks/document/README.md)
 
-* [classifyDocument](docs/document/README.md#classifydocument) - Classify document by type
-* [classifyDocumentSync](docs/document/README.md#classifydocumentsync) - Classify document by type (sync)
+* [classifyDocument](docs/sdks/document/README.md#classifydocument) - Classify document by type
+* [classifyDocumentSync](docs/sdks/document/README.md#classifydocumentsync) - Classify document by type (sync)
 <!-- End SDK Available Operations -->
 
 ### Maturity

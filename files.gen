@@ -26,6 +26,14 @@ src/sdk/models/shared/classifyasyncsingleresponse.ts
 src/sdk/models/shared/classifysingleresponse.ts
 src/sdk/models/shared/security.ts
 src/sdk/models/shared/index.ts
-docs/classification/README.md
-docs/document/README.md
+docs/sdks/classification/README.md
+docs/sdks/document/README.md
 USAGE.md
+docs/models/operations/classifydocumentresponse.md
+docs/models/operations/classifydocumentsyncresponse.md
+docs/models/shared/classifyasyncsingleresponse.md
+docs/models/shared/classifysingleresponseclassificationsummary.md
+docs/models/shared/classifysingleresponsedocumenttype.md
+docs/models/shared/classifysingleresponsereferencedocuments.md
+docs/models/shared/classifysingleresponse.md
+docs/models/shared/security.md
